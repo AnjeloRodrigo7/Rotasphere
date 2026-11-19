@@ -57,10 +57,10 @@ To design, develop, and continuously maintain the club's official website throug
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/AnjeloRodrigo7/Rotasphere.git
 
 # Move into the project folder
-cd [repository-name]
+cd Rotasphere
 
 # Install dependencies
 [install command]
