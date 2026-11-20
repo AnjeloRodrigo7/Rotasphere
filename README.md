@@ -106,7 +106,7 @@ cd Rotasphere
 
 ## Contact
 
-- **Project Coordinator:** Anjelo Rodrigo, [email]
+- **Project Coordinator:** Anjelo Rodrigo, email - anjelorodrigo7@gmail.com
 - **Club:** Rotaract Club of the University of Ruhuna
 
 ## License
