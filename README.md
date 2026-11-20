@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/RotaSphere_Logo_4K.png" alt="RotaSphere Logo" width="350"/>
+  <img src="RotaSphere_Logo_4K.png" alt="RotaSphere Logo" width="350"/>
 </p>
 
 <h1 align="center">RotaSphere</h1>
